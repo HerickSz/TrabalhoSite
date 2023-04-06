@@ -12,6 +12,10 @@ html {
     scroll-behavior: smooth;
 }
 
+body{
+  background: linear-gradient(0.25turn, #dff2fb, #ebf8e1, #fbe9d6);
+}
+
 a {
   color: rgb(0, 102, 255);
   text-decoration: none;
@@ -82,8 +86,8 @@ ul li a:hover {
 }
 
 section.content-header{
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 
